@@ -27,16 +27,12 @@ The system was trained across three diverse plant disease datasets and optimized
   <tr>
     <td align="center"><img src="Plant_images/Page1.png" width="340" alt="Homepage"/><br/><sub><b>Homepage</b></sub></td>
     <td align="center"><img src="Plant_images/Page2.png" width="340" alt="Onboarding"/><br/><sub><b>Login</b></sub></td>
-  </tr>
-  <tr>
     <td align="center"><img src="Plant_images/Page3.png" width="340" alt="Image Upload"/><br/><sub><b>Register</b></sub></td>
     <td align="center"><img src="Plant_images/Page4.png" width="340" alt="Disease Detection"/><br/><sub><b>Our servicese</b></sub></td>
   </tr>
   <tr>
     <td align="center"><img src="Plant_images/Page5.png" width="340" alt="Detection Result"/><br/><sub><b>Disease Detection</b></sub></td>
      <td align="center"><img src="Plant_images/Page6.png" width="340" alt="Treatment Advice"/><br/><sub><b>ChatBot</b></sub></td>
-  </tr>
-  <tr> 
     <td align="center"><img src="Plant_images/Page7.png" width="340" alt="Diagnosis History"/><br/><sub><b>Conversation</b></sub></td>
     <td colspan="2" align="center"><img src="Plant_images/Page9.png" width="340" alt="User Profile"/><br/><sub><b>User Profile</b></sub></td>
   </tr>
