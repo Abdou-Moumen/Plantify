@@ -21,6 +21,32 @@ The system was trained across three diverse plant disease datasets and optimized
 
 ---
 
+## 🖼️ Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="Plant_images/Page1.png" width="340" alt="Homepage"/><br/><sub><b>Homepage</b></sub></td>
+    <td align="center"><img src="Plant_images/Page2.png" width="340" alt="Onboarding"/><br/><sub><b>Onboarding</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Plant_images/Page3.png" width="340" alt="Image Upload"/><br/><sub><b>Image Upload</b></sub></td>
+    <td align="center"><img src="Plant_images/Page4.png" width="340" alt="Disease Detection"/><br/><sub><b>Disease Detection</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Plant_images/Page5.png" width="340" alt="Detection Result"/><br/><sub><b>Detection Result</b></sub></td>
+    <td align="center"><img src="Plant_images/Page6.png" width="340" alt="AI Chatbot"/><br/><sub><b>AI Chatbot</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Plant_images/Page7.png" width="340" alt="Treatment Advice"/><br/><sub><b>Treatment Advice</b></sub></td>
+    <td align="center"><img src="Plant_images/Page8.png" width="340" alt="Diagnosis History"/><br/><sub><b>Diagnosis History</b></sub></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="Plant_images/Page9.png" width="340" alt="User Profile"/><br/><sub><b>User Profile</b></sub></td>
+  </tr>
+</table>
+
+---
+
 ## 🎯 Key Features
 
 ### 🔬 Disease Detection
@@ -242,6 +268,17 @@ plantguard-ai/
 │   │   └── plantwild_loader.py
 │   └── checkpoints/                # Saved model weights (.pt)
 │
+├── Plant_images/
+│   ├── Page1.png                   # Homepage
+│   ├── Page2.png                   # Onboarding
+│   ├── Page3.png                   # Image Upload
+│   ├── Page4.png                   # Disease Detection
+│   ├── Page5.png                   # Detection Result
+│   ├── Page6.png                   # AI Chatbot
+│   ├── Page7.png                   # Treatment Advice
+│   ├── Page8.png                   # Diagnosis History
+│   └── Page9.png                   # User Profile
+│
 └── README.md
 ```
 
@@ -311,6 +348,7 @@ Contributions are welcome! To get started:
 
 Please open an issue first for major changes so we can discuss the approach.
 
+---
 
 ## 👤 Author
 
